@@ -59,6 +59,3 @@ The project utilizes various data science tools and technologies:
 - Pandas and NumPy for data processing
 - Matplotlib and Seaborn for data visualization
 - Scikit-learn and XGBoost for machine learning
-
-## Acknowledgements
-This project was developed as part of the Google Advanced Data Analytics Certificate program, which provided the dataset and project framework.
